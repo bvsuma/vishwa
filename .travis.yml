@@ -6,5 +6,5 @@ include:
  - clang
  - gcc
  script:
- - gcc -o vishwa vishwa.c // we can use gcc instead of clang too
+ - gcc -o vishwa vishwa.c 
  - ./vishwa
